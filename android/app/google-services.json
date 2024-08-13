@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716921286424",
+    "project_id": "ostad-batch-six-697c4",
+    "storage_bucket": "ostad-batch-six-697c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716921286424:android:8df442b88c70dd4ea0786d",
+        "android_client_info": {
+          "package_name": "com.example.module20_class1_firebase_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4vUL5oiocD6wVEE1JFcZeANQESxXLBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716921286424:android:51c9fb31a5b7a4f7a0786d",
+        "android_client_info": {
+          "package_name": "com.example.module20_class2_fireb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4vUL5oiocD6wVEE1JFcZeANQESxXLBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
