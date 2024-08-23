@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:716921286424:android:8df442b88c70dd4ea0786d",
         "android_client_info": {
-          "package_name": "com.example.module20_class1_firebase_"
+          "package_name": "com.example.module20_class2_firebase_app"
         }
       },
       "oauth_client": [],
@@ -28,7 +28,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:716921286424:android:51c9fb31a5b7a4f7a0786d",
         "android_client_info": {
-          "package_name": "com.example.module20_class2_fireb"
+          "package_name": "com.example.module20_class2_firebase_app"
         }
       },
       "oauth_client": [],
